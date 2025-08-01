@@ -4,13 +4,5 @@ theme: just-the-docs
 
 url: https://hellzearth.github.io
 
-# Enable custom styling
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Custom color scheme
-color_scheme: custom
-
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
